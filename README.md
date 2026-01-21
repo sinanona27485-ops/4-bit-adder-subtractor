@@ -8,7 +8,7 @@
 
 \*\*Course:\*\* Logic Design and Circuits Lab
 
-![Project Screenshot](assets/2.png)
+![Project Screenshot](assets/2.PNG)
 
 \## 📌 Project Overview
 
