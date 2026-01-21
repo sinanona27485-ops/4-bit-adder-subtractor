@@ -8,7 +8,7 @@
 
 \*\*Course:\*\* Logic Design and Circuits Lab
 
-!\[Schematic](assets/2.PNG)
+![Project Screenshot](assets/2.png)
 
 \## 📌 Project Overview
 
@@ -70,7 +70,7 @@ The circuit performs subtraction using the \*\*2's complement\*\* method.
 
 | :---: | :---: |
 
-| !\[Schematic](assets/PCB_Schematic.PNG) | !\[PCB View](assets/3.PNG) |
+| ![Schematict](assets/PCB_Schematic.PNG)  | ![PCB 3D View](assets/3.PNG) |
 
 
 
